@@ -1,0 +1,28 @@
+
+#answer-from-coach {
+  width: 30vw;
+  display: flex;
+  margin-bottom: 5px;
+  .gray {
+    background-color: rgb(221, 221, 221);
+    width: 8px;
+  }
+  .answer-from-coach {
+    background-color: rgb(255, 253, 225);
+    padding: 10px;
+
+  }
+}
+
+#question-from-user {
+  width: 30vw;
+  display: flex;
+  margin-bottom: 5px;
+  .gray {
+    background-color: rgb(221, 221, 221);
+    width: 6px;
+  }
+  .answer-from-user {
+    padding: 10px;
+  }
+};;
